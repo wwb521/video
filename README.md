@@ -34,3 +34,5 @@ https://cyuan.netlify.app/zy-player/sites2.json<br/>
 https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json<br/>
 https://agit.ai/guot54/ygbh/raw/branch/master/zy.json<br/>
 https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json<br/>
+## 如果觉得不错，请我喝杯咖啡<br/>
+<img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="800px">
