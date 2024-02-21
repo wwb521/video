@@ -11,26 +11,26 @@ https://github.com/wwb521/live
 https://wwt.lanzouj.com/b00y66epg
 密码:f14w
 ### ③tvbox适用规则：
-http://wu.wamh.cn/video.json（18+专属）
-http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
-https://cyuan.netlify.app/tvbox/duo.json
-https://pastebin.com/raw/5NHaxyGR
-http://home.jundie.top:81/top98.json
-https://xhdwc.tk/0
-http://xhww.fun:63/小米/DEMO.json
-https://bitbucket.org/xduo/duoapi/raw/master/xpg.json
-https://raw.liucn.cc/box/m.json
-https://weixine.net/ysc.json
-https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-http://8.210.232.168/xc.json
-https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8
-https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
-https://szyyds.cn/tv/x.json
+http://wu.wamh.cn/video.json（18+专属）<br/>
+http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌<br/>
+https://cyuan.netlify.app/tvbox/duo.json<br/>
+https://pastebin.com/raw/5NHaxyGR<br/>
+http://home.jundie.top:81/top98.json<br/>
+https://xhdwc.tk/0<br/>
+http://xhww.fun:63/小米/DEMO.json<br/>
+https://bitbucket.org/xduo/duoapi/raw/master/xpg.json<br/>
+https://raw.liucn.cc/box/m.json<br/>
+https://weixine.net/ysc.json<br/>
+https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json<br/>
+http://8.210.232.168/xc.json<br/>
+https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8<br/>
+https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json<br/>
+https://szyyds.cn/tv/x.json<br/>
 ### 电脑端：zyplayer
 https://github.com/Hiram-Wong/ZyPlayer
 ### zyplayer适用规则
-https://zy.catni.cn/config.json（有18+内容）
-https://cyuan.netlify.app/zy-player/sites2.json
-https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json
-https://agit.ai/guot54/ygbh/raw/branch/master/zy.json
-https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
+https://zy.catni.cn/config.json（有18+内容）<br/>
+https://cyuan.netlify.app/zy-player/sites2.json<br/>
+https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json<br/>
+https://agit.ai/guot54/ygbh/raw/branch/master/zy.json<br/>
+https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json<br/>
