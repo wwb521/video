@@ -7,11 +7,9 @@
 https://github.com/wwb521/live
 
 ### ②整合他人写好的规则实现白嫖电影资源
-自从爱优腾各种套娃收费以后,tvbox顺势而起,成为各大民间编码高手的魔改对象以及各大影视爱好群体的观影首选,一夜间，好似病毒般的传播速度,火的一塌糊涂,于是，如下这个链接就收集各种魔改版本,供各大白嫖党使用<br/>
 https://wwt.lanzouj.com/b00y66epg
 密码:f14w
 ### ③tvbox适用规则：
-http://wu.wamh.cn/video.json（18+专属）<br/>
 http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌<br/>
 https://cyuan.netlify.app/tvbox/duo.json<br/>
 https://pastebin.com/raw/5NHaxyGR<br/>
